@@ -99,19 +99,6 @@ Realistic_Guitar_Song.wav
 
 ---
 
-Project Structure
-
-├── Code/
-│   └── guitar_synthesis.m
-├── Report/
-│   └── SnS cep report-3.pdf
-├── Audio/
-│   └── Realistic_Guitar_Song.wav
-└── README.md
-
-
----
-
 How to Run
 
 1. Open MATLAB.
